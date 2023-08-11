@@ -1,0 +1,11 @@
+{
+  "name": "fashion-ai-lablab",
+  "version": "1.0.0",
+  "description": "Fashion Design AI Submission For LabLab's 3D AI Models Hackathon ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
